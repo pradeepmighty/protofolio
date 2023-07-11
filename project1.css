@@ -1,0 +1,49 @@
+nav ul li{
+    display:inline;
+     padding :30px;
+
+   
+}
+nav ul li a{
+   
+    text-decoration: none;
+    color: rgb(65, 4, 23);
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color:rgb(57, 25, 196);
+}
+header{
+    background-color: rgb(60, 158, 85);
+}
+#home{
+    text-align:center ;
+}
+img{
+    border-radius: 50%;
+}
+#bio{
+    text-align: center;
+}
+#portfolio{
+    text-align: center;
+    background-color: rgb(84, 138, 185);
+}
+li{
+    display:inline;
+    padding: 35px;px;
+}
+#skills{
+    text-align: center;
+}
+#contact{
+    text-align: center;
+}
+footer
+{
+    border-radius: 20%;
+    text-align: center;
+   color: rgb(17, 17, 17);
+   background-color:rgb(24, 129, 73);
+}
